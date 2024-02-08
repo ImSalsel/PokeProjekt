@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PokeProjekt</string>
+    <string name="failed_to_load_the_list">Failed to load the list</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="back">Back</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="pokemon_battle">pokemon battle</string>
+    <string name="pokemon_detail">pokemon detail</string>
+    <string name="moves">Moves:</string>
+    <string name="list_of_pokemons">List of pokemons</string>
+    <string name="mythical">Mythical</string>
+    <string name="legendary">Legendary</string>
+    <string name="chose_your_fist_pokemon">Chose your fist pokemon</string>
+    <string name="battle_result">Battle Result</string>
+    <string name="congratulations_you_have_won_the_battle">Congratulations! You have won the battle.</string>
+    <string name="pokemons" translatable="false">Pokemons</string>
+    <string name="power">"power: "</string>
+    <string name="accuracy">"accuracy: "</string>
+    <string name="move_description">"Move Description: "</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PokeProjekt</string>
+    <string name="failed_to_load_the_list">Nepovedlo se načíst seznam</string>
+    <string name="no_internet_connection">Žádné připojení k internetu</string>
+    <string name="unknown_error">Neznámá chyba</string>
+    <string name="back">Zpět</string>
+    <string name="login_failed">Přihlášení neúspěšné</string>
+    <string name="password">Heslo</string>
+    <string name="sign_in">Přihlásit se</string>
+    <string name="pokemon_battle">pokemon zápas</string>
+    <string name="pokemon_detail">detail pokémona</string>
+    <string name="moves">Útoky</string>
+    <string name="list_of_pokemons">Seznam pokémonů</string>
+    <string name="mythical">Mýtický</string>
+    <string name="legendary">Legendární</string>
+    <string name="chose_your_fist_pokemon">Vyber si prvního pokémona</string>
+    <string name="battle_result">Výsledek zápasu</string>
+    <string name="congratulations_you_have_won_the_battle">Blahopřeji! vyhrál si zápas.</string>
+    <string name="power">síla:</string>
+    <string name="accuracy">přesnost:</string>
+    <string name="move_description">Popis:</string>
+</resources>
